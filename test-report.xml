@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="F:\PROJECTS\wings-nodejs-buysellapp\NodeJS\test\sellAndBuy.test.js" errors="0" package="F:\PROJECTS\wings-nodejs-buysellapp\NodeJS\test\sellAndBuy.test.js" hostname="localhost" tests="14" failures="0" time="2.495" timestamp="2022-03-20T10:37:51">
+    <properties>
+    </properties>
+    <testcase classname="saving product" name="saving product" time="0">
+    </testcase>
+    <testcase classname="saving product - invalid product name" name="saving product - invalid product name" time="0">
+    </testcase>
+    <testcase classname="saving subjects - invalid cost price" name="saving subjects - invalid cost price" time="0">
+    </testcase>
+    <testcase classname="patch product" name="patch product" time="0">
+    </testcase>
+    <testcase classname="patch product - error" name="patch product - error" time="0">
+    </testcase>
+    <testcase classname="getting all product data" name="getting all product data" time="0">
+    </testcase>
+    <testcase classname="getting product data - Laptop" name="getting product data - Laptop" time="0">
+    </testcase>
+    <testcase classname="getting product data - Mobile" name="getting product data - Mobile" time="0">
+    </testcase>
+    <testcase classname="getting product data - lowerCostPrice" name="getting product data - lowerCostPrice" time="0">
+    </testcase>
+    <testcase classname="getting product data - higherCostPrice" name="getting product data - higherCostPrice" time="0">
+    </testcase>
+    <testcase classname="getting product data - lowerSoldPrice" name="getting product data - lowerSoldPrice" time="0">
+    </testcase>
+    <testcase classname="getting product data - higherSoldPrice" name="getting product data - higherSoldPrice" time="0">
+    </testcase>
+    <testcase classname="deleting 2nd product" name="deleting 2nd product" time="0">
+    </testcase>
+    <testcase classname="deleting 2nd product-error" name="deleting 2nd product-error" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
